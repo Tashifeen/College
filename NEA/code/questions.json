@@ -1,0 +1,833 @@
+{
+    "Easy": [
+        {
+            "question": "What is the acceleration due to gravity on Earth?",
+            "options": [
+                "9.8 m/s^2",
+                "5 m/s^2",
+                "12 m/s^2",
+                "8 m/s^2"
+            ],
+            "answer": "9.8 m/s^2",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the shape of the trajectory of a projectile?",
+            "options": [
+                "Straight Line",
+                "Parabola",
+                "Circle",
+                "Ellipse"
+            ],
+            "answer": "Parabola",
+            "questionType": "Theory"
+        },
+        {
+            "question": "Which component of velocity remains constant in projectile motion (ignoring air resistance)?",
+            "options": [
+                "Horizontal",
+                "Vertical",
+                "Total Velocity",
+                "Acceleration"
+            ],
+            "answer": "Horizontal",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the vertical acceleration of a projectile?",
+            "options": [
+                "9.8 m/s^2 downward",
+                "0 m/s^2",
+                "9.8 m/s^2 upward",
+                "Depends on the angle"
+            ],
+            "answer": "9.8 m/s^2 downward",
+            "questionType": "Theory"
+        },
+        {
+            "question": "Which angle of projection gives the maximum horizontal range?",
+            "options": [
+                "30 degrees",
+                "45 degrees",
+                "60 degrees",
+                "90 degrees"
+            ],
+            "answer": "45 degrees",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the horizontal acceleration in projectile motion (ignoring air resistance)?",
+            "options": [
+                "9.8 m/s^2",
+                "0 m/s^2",
+                "Depends on initial velocity",
+                "Equal to vertical acceleration"
+            ],
+            "answer": "0 m/s^2",
+            "questionType": "Theory"
+        },
+        {
+            "question": "At what point is the vertical velocity of a projectile zero?",
+            "options": [
+                "At the beginning",
+                "At the peak",
+                "At the end",
+                "Never"
+            ],
+            "answer": "At the peak",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What two components make up projectile motion?",
+            "options": [
+                "Horizontal and Vertical",
+                "Linear and Circular",
+                "Angular and Radial",
+                "Kinetic and Potential"
+            ],
+            "answer": "Horizontal and Vertical",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What happens to the horizontal velocity of a projectile during its flight?",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Remains Constant",
+                "Becomes Zero"
+            ],
+            "answer": "Remains Constant",
+            "questionType": "Theory"
+        },
+        {
+            "question": "Which factor does NOT affect the range of a projectile?",
+            "options": [
+                "Angle of projection",
+                "Initial velocity",
+                "Mass of the projectile",
+                "Acceleration due to gravity"
+            ],
+            "answer": "Mass of the projectile",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the total time of flight for a projectile launched at an angle?",
+            "options": [
+                "2v*sin(theta)/g",
+                "v*sin(theta)/g",
+                "v*cos(theta)/g",
+                "v^2/g"
+            ],
+            "answer": "2v*sin(theta)/g",
+            "questionType": "Calculation"
+        },
+        {
+            "question": "What is the horizontal range of a projectile launched at an angle theta?",
+            "options": [
+                "v^2*sin(2theta)/g",
+                "v^2*cos(2theta)/g",
+                "v*sin(theta)/g",
+                "v*cos(theta)/g"
+            ],
+            "answer": "v^2*sin(2theta)/g",
+            "questionType": "Calculation"
+        },
+        {
+            "question": "What happens to the range if the initial velocity is doubled?",
+            "options": [
+                "Remains the same",
+                "Doubles",
+                "Quadruples",
+                "Halves"
+            ],
+            "answer": "Quadruples",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the maximum height of a projectile launched vertically?",
+            "options": [
+                "v^2/2g",
+                "v^2/g",
+                "v/g",
+                "v^2*cos(theta)/2g"
+            ],
+            "answer": "v^2/2g",
+            "questionType": "Calculation"
+        },
+        {
+            "question": "What determines the time a projectile spends in the air?",
+            "options": [
+                "Horizontal velocity",
+                "Vertical velocity",
+                "Mass",
+                "Range"
+            ],
+            "answer": "Vertical velocity",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the trajectory of a projectile motion equation?",
+            "options": [
+                "y = mx + c",
+                "y = ax^2 + bx + c",
+                "y = a/x",
+                "y = e^x"
+            ],
+            "answer": "y = ax^2 + bx + c",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What happens to the range if the angle of projection increases beyond 45 degrees?",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Remains Constant",
+                "Depends on velocity"
+            ],
+            "answer": "Decreases",
+            "questionType": "Theory"
+        },
+        {
+            "question": "Which parameter affects the time of flight the most?",
+            "options": [
+                "Angle of launch",
+                "Vertical component of velocity",
+                "Horizontal component of velocity",
+                "Mass"
+            ],
+            "answer": "Vertical component of velocity",
+            "questionType": "Theory"
+        },
+        {
+            "question": "If a projectile lands at the same height it was launched, what can we infer?",
+            "options": [
+                "Its initial and final velocities are equal",
+                "Its initial and final vertical velocities are equal",
+                "Its horizontal velocity is zero",
+                "Its range is infinite"
+            ],
+            "answer": "Its initial and final velocities are equal",
+            "questionType": "Theory"
+        },
+        {
+            "question": "How does air resistance affect projectile motion?",
+            "options": [
+                "Increases range",
+                "Decreases range",
+                "No effect",
+                "Only changes vertical motion"
+            ],
+            "answer": "Decreases range",
+            "questionType": "Theory"
+        },
+        {
+            "question": "Which angle produces the same range as a 30-degree launch?",
+            "options": [
+                "15 degrees",
+                "45 degrees",
+                "60 degrees",
+                "90 degrees"
+            ],
+            "answer": "60 degrees",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the velocity at the peak of the trajectory?",
+            "options": [
+                "Horizontal component only",
+                "Vertical component only",
+                "Zero",
+                "Equal to initial velocity"
+            ],
+            "answer": "Horizontal component only",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the effect of gravity on the horizontal motion?",
+            "options": [
+                "Increases it",
+                "Decreases it",
+                "No effect",
+                "Varies with time"
+            ],
+            "answer": "No effect",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What happens to the total energy of a projectile (ignoring air resistance)?",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Remains constant",
+                "Fluctuates"
+            ],
+            "answer": "Remains constant",
+            "questionType": "Theory"
+        },
+        {
+            "question": "Which angle produces the longest time of flight?",
+            "options": [
+                "30 degrees",
+                "45 degrees",
+                "60 degrees",
+                "90 degrees"
+            ],
+            "answer": "90 degrees",
+            "questionType": "Theory"
+        }
+    ],
+    "Normal": [
+        {
+            "question": "If a projectile is launched at 45 degrees, what is the range formula?",
+            "options": [
+                "v^2/g",
+                "v/g",
+                "v^2/2g",
+                "v^2*sin(2\u03b8)/g"
+            ],
+            "answer": "v^2*sin(2\u03b8)/g",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the horizontal velocity of a projectile after launch?",
+            "options": [
+                "Decreases",
+                "Increases",
+                "Constant",
+                "Zero"
+            ],
+            "answer": "Constant",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the time of flight for a projectile launched at an angle?",
+            "options": [
+                "2v*sin(\u03b8)/g",
+                "v*sin(\u03b8)/g",
+                "v*cos(\u03b8)/g",
+                "v/g"
+            ],
+            "answer": "2v*sin(\u03b8)/g",
+            "questionType": "Theory"
+        },
+        {
+            "question": "Which parameter affects the maximum height of a projectile?",
+            "options": [
+                "Horizontal Velocity",
+                "Mass",
+                "Initial Vertical Velocity",
+                "Angle of Launch"
+            ],
+            "answer": "Initial Vertical Velocity",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What happens to the horizontal velocity in an ideal projectile motion?",
+            "options": [
+                "Decreases",
+                "Increases",
+                "Remains constant",
+                "Oscillates"
+            ],
+            "answer": "Remains constant",
+            "questionType": "Theory"
+        },
+        {
+            "question": "At what angle will the maximum height and range of a projectile be the same?",
+            "options": [
+                "30 degrees",
+                "45 degrees",
+                "60 degrees",
+                "90 degrees"
+            ],
+            "answer": "45 degrees",
+            "questionType": "Theory"
+        },
+        {
+            "question": "How does gravity affect the projectile's trajectory?",
+            "options": [
+                "Curves it downward",
+                "Keeps it straight",
+                "Stops horizontal motion",
+                "Stops vertical motion"
+            ],
+            "answer": "Curves it downward",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the relationship between time of flight and initial velocity?",
+            "options": [
+                "Directly proportional",
+                "Inversely proportional",
+                "Exponential",
+                "Unrelated"
+            ],
+            "answer": "Directly proportional",
+            "questionType": "Calculation"
+        },
+        {
+            "question": "If a projectile is launched from the ground at 60 degrees, how does the range compare to one launched at 30 degrees?",
+            "options": [
+                "Shorter",
+                "Equal",
+                "Longer",
+                "Double"
+            ],
+            "answer": "Equal",
+            "questionType": "Calculation"
+        },
+        {
+            "question": "What happens to the vertical velocity when a projectile reaches its maximum height?",
+            "options": [
+                "Becomes zero",
+                "Increases",
+                "Decreases",
+                "Remains constant"
+            ],
+            "answer": "Becomes zero",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the primary factor that determines the horizontal range?",
+            "options": [
+                "Horizontal velocity",
+                "Vertical velocity",
+                "Mass of the object",
+                "Height of launch"
+            ],
+            "answer": "Horizontal velocity",
+            "questionType": "Theory"
+        },
+        {
+            "question": "Which angle gives the same range as a 75-degree launch?",
+            "options": [
+                "15 degrees",
+                "30 degrees",
+                "45 degrees",
+                "60 degrees"
+            ],
+            "answer": "15 degrees",
+            "questionType": "Calculation"
+        },
+        {
+            "question": "What determines the shape of a projectile's trajectory?",
+            "options": [
+                "Initial speed",
+                "Initial angle",
+                "Both",
+                "Neither"
+            ],
+            "answer": "Both",
+            "questionType": "Theory"
+        },
+        {
+            "question": "Which statement is true for a projectile launched horizontally?",
+            "options": [
+                "Horizontal and vertical motions are independent",
+                "Horizontal motion affects vertical motion",
+                "Vertical acceleration is zero",
+                "Horizontal velocity increases"
+            ],
+            "answer": "Horizontal and vertical motions are independent",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What happens to the range if the angle is increased to 90 degrees?",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Remains the same",
+                "Becomes zero"
+            ],
+            "answer": "Becomes zero",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the motion of a projectile in the absence of air resistance?",
+            "options": [
+                "Linear",
+                "Parabolic",
+                "Circular",
+                "Exponential"
+            ],
+            "answer": "Parabolic",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the kinetic energy of a projectile at its highest point?",
+            "options": [
+                "Zero",
+                "Depends only on horizontal velocity",
+                "Depends only on vertical velocity",
+                "Maximum"
+            ],
+            "answer": "Depends only on horizontal velocity",
+            "questionType": "Theory"
+        },
+        {
+            "question": "How does the angle of projection affect the time of flight?",
+            "options": [
+                "Higher angle increases time",
+                "Higher angle decreases time",
+                "No effect",
+                "Only horizontal velocity matters"
+            ],
+            "answer": "Higher angle increases time",
+            "questionType": "Theory"
+        },
+        {
+            "question": "If a projectile is launched at an angle and lands at the same height, what is true about its trajectory?",
+            "options": [
+                "Symmetrical",
+                "Asymmetrical",
+                "Parabolic with unequal sides",
+                "Linear"
+            ],
+            "answer": "Symmetrical",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the total energy of a projectile during its motion?",
+            "options": [
+                "Constant",
+                "Increases",
+                "Decreases",
+                "Fluctuates"
+            ],
+            "answer": "Constant",
+            "questionType": "Theory"
+        },
+        {
+            "question": "At what point is the kinetic energy of a projectile maximum?",
+            "options": [
+                "At launch",
+                "At the highest point",
+                "At the end",
+                "At every point"
+            ],
+            "answer": "At launch",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What happens to a projectile's velocity at its peak?",
+            "options": [
+                "Horizontal component remains",
+                "Vertical component remains",
+                "Both components remain",
+                "Both components become zero"
+            ],
+            "answer": "Horizontal component remains",
+            "questionType": "Theory"
+        },
+        {
+            "question": "If the height of a projectile is doubled, what happens to the time of flight?",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Doubles",
+                "Halves"
+            ],
+            "answer": "Increases",
+            "questionType": "Calculation"
+        },
+        {
+            "question": "What is the relationship between range and time of flight for a given angle?",
+            "options": [
+                "Range is directly proportional",
+                "Range is inversely proportional",
+                "No relationship",
+                "Exponential"
+            ],
+            "answer": "Range is directly proportional",
+            "questionType": "Theory"
+        },
+        {
+            "question": "Which angle gives the maximum height for a given speed?",
+            "options": [
+                "30 degrees",
+                "45 degrees",
+                "60 degrees",
+                "90 degrees"
+            ],
+            "answer": "90 degrees",
+            "questionType": "Theory"
+        }
+    ],
+    "Hard": [
+        {
+            "question": "What is the time of flight for a projectile launched at an angle?",
+            "options": [
+                "2v*sin(\u03b8)/g",
+                "v*sin(\u03b8)/g",
+                "v*cos(\u03b8)/g",
+                "v/g"
+            ],
+            "answer": "2v*sin(\u03b8)/g",
+            "questionType": "Theory"
+        },
+        {
+            "question": "Which parameter affects the maximum height of a projectile?",
+            "options": [
+                "Horizontal Velocity",
+                "Mass",
+                "Initial Vertical Velocity",
+                "Angle of Launch"
+            ],
+            "answer": "Initial Vertical Velocity",
+            "questionType": "Theory"
+        },
+        {
+            "question": "A projectile is launched at 30\u00b0 with a speed of 50 m/s. What is the horizontal range if g = 9.8 m/s\u00b2?",
+            "options": [
+                "255.1 m",
+                "200.0 m",
+                "127.5 m",
+                "300.0 m"
+            ],
+            "answer": "255.1 m",
+            "questionType": "Calculation"
+        },
+        {
+            "question": "Which of the following affects the time of flight of a projectile?",
+            "options": [
+                "Initial Speed",
+                "Angle of Projection",
+                "Both A and B",
+                "None of the Above"
+            ],
+            "answer": "Both A and B",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the equation for the maximum height reached by a projectile?",
+            "options": [
+                "(v^2*sin\u00b2(\u03b8))/2g",
+                "(v^2*cos\u00b2(\u03b8))/2g",
+                "(2v*sin(\u03b8))/g",
+                "(v^2*sin(\u03b8))/g"
+            ],
+            "answer": "(v^2*sin\u00b2(\u03b8))/2g",
+            "questionType": "Theory"
+        },
+        {
+            "question": "If the angle of projection is doubled, what happens to the horizontal range?",
+            "options": [
+                "Doubles",
+                "Halves",
+                "Increases Non-Linearly",
+                "No Change"
+            ],
+            "answer": "Increases Non-Linearly",
+            "questionType": "Calculation"
+        },
+        {
+            "question": "For a given angle, which parameter increases both range and time of flight?",
+            "options": [
+                "Mass of the Projectile",
+                "Initial Speed",
+                "Angle of Projection",
+                "Acceleration Due to Gravity"
+            ],
+            "answer": "Initial Speed",
+            "questionType": "Theory"
+        },
+        {
+            "question": "At the highest point of a projectile's trajectory, what is true about its velocity?",
+            "options": [
+                "It is zero",
+                "It is purely horizontal",
+                "It is purely vertical",
+                "It is equal to initial speed"
+            ],
+            "answer": "It is purely horizontal",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the trajectory of a projectile fired horizontally?",
+            "options": [
+                "Linear",
+                "Circular",
+                "Parabolic",
+                "Hyperbolic"
+            ],
+            "answer": "Parabolic",
+            "questionType": "Theory"
+        },
+        {
+            "question": "The horizontal acceleration of a projectile in motion is always:",
+            "options": [
+                "Equal to gravity",
+                "Constant",
+                "Zero",
+                "Variable"
+            ],
+            "answer": "Zero",
+            "questionType": "Theory"
+        },
+        {
+            "question": "A projectile is launched with a speed of 20 m/s at 60\u00b0. Calculate the time of flight (g = 9.8 m/s\u00b2).",
+            "options": [
+                "3.52 s",
+                "4.10 s",
+                "2.04 s",
+                "6.20 s"
+            ],
+            "answer": "3.52 s",
+            "questionType": "Calculation"
+        },
+        {
+            "question": "What happens to the horizontal range of a projectile when fired on the moon compared to Earth?",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Remains Constant",
+                "Depends on the Angle"
+            ],
+            "answer": "Increases",
+            "questionType": "Theory"
+        },
+        {
+            "question": "Which of the following quantities remains constant throughout the motion of a projectile?",
+            "options": [
+                "Vertical Velocity",
+                "Horizontal Velocity",
+                "Acceleration",
+                "Both B and C"
+            ],
+            "answer": "Both B and C",
+            "questionType": "Theory"
+        },
+        {
+            "question": "At the instant a projectile reaches maximum height, what is true about its vertical velocity?",
+            "options": [
+                "It is zero",
+                "It is equal to initial velocity",
+                "It is at maximum",
+                "It is constant"
+            ],
+            "answer": "It is zero",
+            "questionType": "Theory"
+        },
+        {
+            "question": "A projectile is launched at 45\u00b0 for maximum range. What is the ratio of its maximum height to its range?",
+            "options": [
+                "1:2",
+                "1:4",
+                "1:1",
+                "2:1"
+            ],
+            "answer": "1:4",
+            "questionType": "Calculation"
+        },
+        {
+            "question": "What is the velocity at the maximum height of a projectile launched at an angle?",
+            "options": [
+                "Zero",
+                "Equal to initial horizontal velocity",
+                "Equal to initial vertical velocity",
+                "Equal to total initial velocity"
+            ],
+            "answer": "Equal to initial horizontal velocity",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What will be the effect on the time of flight if the angle of projection increases from 30\u00b0 to 60\u00b0?",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Remains the Same",
+                "Doubles"
+            ],
+            "answer": "Increases",
+            "questionType": "Calculation"
+        },
+        {
+            "question": "For maximum height of a projectile, at what angle should it be launched?",
+            "options": [
+                "45\u00b0",
+                "90\u00b0",
+                "60\u00b0",
+                "30\u00b0"
+            ],
+            "answer": "90\u00b0",
+            "questionType": "Theory"
+        },
+        {
+            "question": "At what angle of projection is the horizontal range of a projectile maximum?",
+            "options": [
+                "30\u00b0",
+                "60\u00b0",
+                "45\u00b0",
+                "90\u00b0"
+            ],
+            "answer": "45\u00b0",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the relationship between horizontal and vertical components of velocity during projectile motion?",
+            "options": [
+                "Both are constant",
+                "Both change linearly",
+                "One is constant while the other changes",
+                "Both change quadratically"
+            ],
+            "answer": "One is constant while the other changes",
+            "questionType": "Theory"
+        },
+        {
+            "question": "A ball is thrown horizontally from the top of a building. What affects the time it takes to hit the ground?",
+            "options": [
+                "Horizontal velocity",
+                "Height of the building",
+                "Both A and B",
+                "Neither A nor B"
+            ],
+            "answer": "Height of the building",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the horizontal range for a projectile launched at an angle \u03b8 with initial speed v?",
+            "options": [
+                "(v\u00b2*sin(2\u03b8))/g",
+                "(v*sin\u00b2(\u03b8))/g",
+                "(v\u00b2*cos(\u03b8))/g",
+                "(v\u00b2*sin(\u03b8))/g"
+            ],
+            "answer": "(v\u00b2*sin(2\u03b8))/g",
+            "questionType": "Theory"
+        },
+        {
+            "question": "What is the significance of 45\u00b0 in projectile motion?",
+            "options": [
+                "Maximum height occurs",
+                "Maximum range occurs",
+                "Minimum time of flight occurs",
+                "All of the Above"
+            ],
+            "answer": "Maximum range occurs",
+            "questionType": "Theory"
+        },
+        {
+            "question": "If two projectiles are launched with the same speed but at complementary angles, what is true about their ranges?",
+            "options": [
+                "One will be double",
+                "Ranges will be equal",
+                "Ranges will differ linearly",
+                "Ranges will differ quadratically"
+            ],
+            "answer": "Ranges will be equal",
+            "questionType": "Theory"
+        },
+        {
+            "question": "The total energy of a projectile remains constant if:",
+            "options": [
+                "Air resistance is ignored",
+                "Mass is negligible",
+                "Horizontal velocity is constant",
+                "Angle is less than 45\u00b0"
+            ],
+            "answer": "Air resistance is ignored",
+            "questionType": "Theory"
+        }
+    ]
+}
